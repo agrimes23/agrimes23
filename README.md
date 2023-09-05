@@ -1,7 +1,6 @@
 
 <div align="center">
     <h3> Hey there, I'm Alex Grimes </h3>
-    <h4>Full Stack Developer and Software Engineer</h4>
 </div>
 <h4 align="center">
     <a href="https://alex-grimes-fullstack.herokuapp.com/">Portfolio Site</a> •
@@ -14,7 +13,7 @@
 ---
 
 <br/>
-I'm a Full Stack Developer mainly coding in React JS and Typescript. 
+A Full Stack Developer mainly with React JS and Typescript. 
 <br/>
 <br/>
 Currently working on a travel planner site that helps you plan a trip based on your budget, as well as a site that uses a Japanese News API where the user can see highlighted words in the article based on vocabulary found in the Japanese Language Proficiency Test.
