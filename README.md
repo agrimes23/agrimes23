@@ -1,4 +1,3 @@
-
 <div align="center">
     <h3> Hey there, I'm Alex Grimes </h3>
 </div>
@@ -11,8 +10,6 @@
 <!-- profile views??? -->
 
 ---
-
-<br/>
 A Full Stack Developer mainly with React JS and Typescript. 
 <br/>
 <br/>
