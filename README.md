@@ -1,6 +1,8 @@
-<h2 align="center"> Hey there, I'm Alex Grimes </h2>
-<h3 align="center"> Full Stack Developer and Software Engineer</h3>
 
+<div align="center">
+    <h3> Hey there, I'm Alex Grimes </h3>
+    <h4> Full Stack Developer and Software Engineer</h4>
+</div>
 <h4 align="center">
     <a href="https://alex-grimes-fullstack.herokuapp.com/">Portfolio Site</a> •
     <a href="https://www.linkedin.com/in/alex-grimes-dev/">LinkedIn</a>
@@ -18,6 +20,7 @@ I'm a Full Stack Developer mainly coding in React JS and Typescript.
 Currently working on a travel planner site that helps you plan a trip based on your budget, and a site that uses a Japanese News API where the user can see highlighted words in the article based on vocabulary found in the Japanese Language Proficiency Test.
 <br/>
 <br/>
+<p>💻 Mainly code in JavaScript, React, and Typescript</p>
 <p>🌱 Learning GraphQL <img height="25" style="" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1200px-GraphQL_Logo.svg.png" /> and Java <img height="25" align="center" src="https://ubiqum.com/assets/uploads/2021/12/learn-java-with-ubiqum-logo.png" /> </p>
 
 ⚡ Fun fact: I climbed Mt. Fuji ⛰️ in one night to see the sunrise at the top
