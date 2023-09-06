@@ -24,8 +24,7 @@ Currently working on a travel planner site that helps you plan a trip based on y
 
 ⚡ Fun fact: I climbed Mt. Fuji ⛰️ in one night to see the sunrise at the top
 
-<div style="display: flex; align-items: center;" >
-<table style = "margin-right: 40px; width: 370px;" >
+<table>
     <tr>
         <th ><h3>Learned Languages & Frameworks</h3></th>
     </tr>
@@ -47,4 +46,3 @@ Currently working on a travel planner site that helps you plan a trip based on y
 
 ![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=agrimes23&show_icons=true&theme=tokyonight)
 
-</div>
