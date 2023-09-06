@@ -13,13 +13,13 @@
 
 ---
 
-<br/>
-I'm a Full Stack Developer mainly coding in React JS and Typescript. 
+A Full Stack Developer mainly with React JS and Typescript.
 <br/>
 <br/>
 Currently working on a travel planner site that helps you plan a trip based on your budget, as well as a site that uses a Japanese News API where the user can see highlighted words in the article based on vocabulary found in the Japanese Language Proficiency Test.
 <br/>
 <br/>
+
 <p>🌱 Learning GraphQL <img height="25" style="" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1200px-GraphQL_Logo.svg.png" /> and Java <img height="25" align="center" src="https://ubiqum.com/assets/uploads/2021/12/learn-java-with-ubiqum-logo.png" /> </p>
 
 ⚡ Fun fact: I climbed Mt. Fuji ⛰️ in one night to see the sunrise at the top
