@@ -1,7 +1,7 @@
+![](assets/BackgroundBanner.PNG)
 
 <div align="center">
-    <h3> Hey there, I'm Alex Grimes </h3>
-    <h4>Full Stack Developer and Software Engineer</h4>
+    <h3>Full Stack Developer | Software Engineer</h3>
 </div>
 <h4 align="center">
     <a href="https://alex-grimes-fullstack.herokuapp.com/">Portfolio Site</a> •
