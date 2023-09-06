@@ -22,7 +22,7 @@ Currently working on a travel planner site that helps you plan a trip based on y
 
 ⚡ Fun fact: I climbed Mt. Fuji ⛰️ in one night to see the sunrise at the top
 
-<div style="display: flex;">
+<div style="display: flex; flex: row;">
 
 <img style="width: 350px; margin-top: 20px;" src="https://github-readme-stats.vercel.app/api?username=agrimes23&show_icons=true&theme=tokyonight">
 <!-- ![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=agrimes23&show_icons=true&theme=tokyonight) -->
