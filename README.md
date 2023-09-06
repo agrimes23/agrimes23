@@ -9,7 +9,25 @@
     <!-- <a href="alexgrimes23@gmail.com">Email Me!</a> -->
 </h4>
 
-<table>
+<!-- profile views??? -->
+
+---
+
+A Full Stack Developer mainly with React JS and Typescript.
+<br/>
+Currently working on a travel planner site that helps you plan a trip based on your budget, as well as a site that uses a Japanese News API where the user can see highlighted words in the article based on vocabulary found in the Japanese Language Proficiency Test.
+<br/>
+
+<p>🌱 Learning GraphQL <img height="25" style="" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1200px-GraphQL_Logo.svg.png" /> and Java <img height="25" align="center" src="https://ubiqum.com/assets/uploads/2021/12/learn-java-with-ubiqum-logo.png" /> </p>
+
+⚡ Fun fact: I climbed Mt. Fuji ⛰️ in one night to see the sunrise at the top
+
+<div style="display: flex;">
+
+<img style="width: 500px; margin-top: 20px;" src="https://github-readme-stats.vercel.app/api?username=agrimes23&show_icons=true&theme=tokyonight">
+<!-- ![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=agrimes23&show_icons=true&theme=tokyonight) -->
+
+<table style="margin-left: 20px; width: 250px;">
     <tr>
         <th ><h3>Learned Languages & Frameworks</h3></th>
     </tr>
@@ -29,5 +47,4 @@
 
 </table>
 
-![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=agrimes23&show_icons=true&theme=tokyonight)
-
+</div>
