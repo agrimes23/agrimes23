@@ -10,9 +10,13 @@
 
 ---
 
-A Full Stack Developer mainly with React JS and Typescript.
+A Full Stack Developer mainly developing web applications in React JS and Typescript.
 <br/>
-Currently working on a travel planner site that helps you plan a trip based on your budget, as well as a site that uses a Japanese News API where the user can see highlighted words in the article based on vocabulary found in the Japanese Language Proficiency Test.
+Current Projects:
+📚 an EdTech site that lets young learners communicate their current emotions with their teacher and learn about their emotions in order to have an effective day of learning.
+🌸 a Japanese News site where the user can see highlighted words in the article based on vocabulary found in the Japanese Language Proficiency Test, and then add words they want to learn to a flashcard set.
+📊 a budgeting app tool 
+📔 a travel planner site that helps you plan a trip based on your budget.
 <br/>
 
 <p>🌱 Learning GraphQL <img alt="GraphQL" height="25" style="" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1200px-GraphQL_Logo.svg.png" /> and Java <img alt="Java" height="25" align="center" src="https://ubiqum.com/assets/uploads/2021/12/learn-java-with-ubiqum-logo.png" /> </p>
