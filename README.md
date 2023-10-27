@@ -10,7 +10,7 @@
 
 ---
 
-### A Full Stack Developer mainly developing web applications in React JS and Typescript. Currently learning GraphQL  <img alt="GraphQL" height="25" style="" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1200px-GraphQL_Logo.svg.png" />.</h3>
+### A Full Stack Developer mainly developing web applications in React JS and Typescript. Currently learning GraphQL  <img alt="GraphQL" height="25" style="" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1200px-GraphQL_Logo.svg.png" />.
 
 <h4>Current Projects:</h4>
 <p>📚 an EdTech site that lets young learners communicate their current emotions with their teacher and learn about their emotions in order to have an effective day of learning.</p>
