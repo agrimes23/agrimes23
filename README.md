@@ -15,8 +15,8 @@
 <h4>Current Projects:</h4>
 <p>📚 an EdTech site that lets young learners communicate their current emotions with their teacher and learn about their emotions in order to have an effective day of learning.</p>
 <p>🌸 a Japanese News site where the user can see highlighted words in the article based on vocabulary found in the Japanese Language Proficiency Test, and then add words they want to learn to a flashcard set.</p>
-<p>📊 a budgeting app tool </li>
-<p>📔 a travel planner site that helps you plan a trip based on your budget.</p>
+<p>📊 a budgeting app tool, repo linked here https://github.com/jagins/budgeting-app </li>
+<p>🎶 an app recommending artists based on previous liked songs, repo linked here: https://github.com/Noggog/MusicCrawler</p>
 <br/>
 
 <table>
